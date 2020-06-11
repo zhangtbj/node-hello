@@ -1,1 +1,1 @@
-artifact: hello.js
+handler = "package.json"
